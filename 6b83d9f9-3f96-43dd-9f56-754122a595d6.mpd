@@ -9,7 +9,7 @@
      mediaPresentationDuration="PT2H52M48.006S"
      minBufferTime="PT1.5S">
 <ProgramInformation>
-    <Title>https://streamcdng20-b70cb04c54ab478189e9d8ee45637b13.msvdn.net/ostr2/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/10213726_,1800,2400,3200,5000</Title>
+    <Title>podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/10213726_,1800,2400,3200,5000</Title>
 </ProgramInformation>
 <Period id="0" start="PT0.0S">
     <AdaptationSet id="0" group="1" mimeType="video/mp4" maxWidth="1920" maxHeight="1080" par="16:9" frameRate="25" segmentAlignment="true" startWithSAP="1" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
