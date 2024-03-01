@@ -27,10 +27,10 @@
         <Representation id="p0aa0br128000" codecs="mp4a.40.2" audioSamplingRate="44100" bandwidth="128000">
         </Representation>
     </AdaptationSet>
-	<AdaptationSet mimeType="application/x-subrip" lang="it" forced="false" default="false">
-		<Representation id="srt" bandwidth="0">
-		<BaseURL>https://www.raiplay.it/dl/video/stl/The%20Wolf%20of%20Wall%20Street.srt/</BaseURL>
-		</Representation>
-	</AdaptationSet>
+    <AdaptationSet mimeType="application/x-subrip" lang="it" forced="false" default="false">
+	<Representation id="srt" bandwidth="0">
+	<BaseURL>https://www.raiplay.it/dl/video/stl/The%20Wolf%20of%20Wall%20Street.srt/</BaseURL>
+	</Representation>
+    </AdaptationSet>
 </Period>
 </MPD>
