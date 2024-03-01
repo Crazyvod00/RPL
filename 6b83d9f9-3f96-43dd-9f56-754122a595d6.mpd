@@ -13,7 +13,7 @@
 </ProgramInformation>
 <Period id="0" start="PT0.0S">
     <AdaptationSet id="0" group="1" mimeType="video/mp4" maxWidth="1920" maxHeight="1080" par="16:9" frameRate="25" segmentAlignment="true" startWithSAP="1" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
-        <SegmentTemplate presentationTimeOffset="0" timescale="90000" duration="900000" startNumber="1" media="https://b70cb04c54ab478189e9d8ee45637b13.msvdn.net/ostr2/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/10213726_,1800,2400,3200,5000/segment_ctvideo_rid$RepresentationID$_cn$Number$_mpd.m4s" initialization="https://b70cb04c54ab478189e9d8ee45637b13.msvdn.net/ostr2/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/10213726_,1800,2400,3200,5000/segment_ctvideo_rid$RepresentationID$_cinit_mpd.m4s"/>
+        <SegmentTemplate presentationTimeOffset="0" timescale="90000" duration="900000" startNumber="1" media="https://b70cb04c54ab478189e9d8ee45637b13.msvdn.net/ostr2/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/10213726_segment_ctvideo_rid$RepresentationID$_cn$Number$_mpd.m4s" initialization="https://b70cb04c54ab478189e9d8ee45637b13.msvdn.net/ostr2/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/10213726_segment_ctvideo_rid$RepresentationID$_cinit_mpd.m4s"/>
         <Representation id="p0va0br1740788" codecs="avc1.4d401f" width="1024" height="576" sar="1:1" bandwidth="1740788" />
         <Representation id="p0va0br2320599" codecs="avc1.4d4028" width="1280" height="720" sar="1:1" bandwidth="2320599" />
         <Representation id="p0va0br3092596" codecs="avc1.640029" width="1440" height="810" sar="1:1" bandwidth="3092596" />
@@ -21,7 +21,7 @@
     </AdaptationSet>
     <AdaptationSet id="1" group="2" mimeType="audio/mp4" lang="ita" segmentAlignment="true" startWithSAP="1" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
         <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
-        <SegmentTemplate presentationTimeOffset="0" timescale="44100" duration="441000" startNumber="1" media="https://b70cb04c54ab478189e9d8ee45637b13.msvdn.net/ostr2/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/10213726_,1800,2400,3200,5000/segment_ctaudio_rid$RepresentationID$_cn$Number$_mpd.m4s" initialization="https://b70cb04c54ab478189e9d8ee45637b13.msvdn.net/ostr2/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/10213726_,1800,2400,3200,5000/segment_ctaudio_rid$RepresentationID$_cinit_mpd.m4s"/>
+        <SegmentTemplate presentationTimeOffset="0" timescale="44100" duration="441000" startNumber="1" media="https://b70cb04c54ab478189e9d8ee45637b13.msvdn.net/ostr2/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/10213726_segment_ctaudio_rid$RepresentationID$_cn$Number$_mpd.m4s" initialization="https://b70cb04c54ab478189e9d8ee45637b13.msvdn.net/ostr2/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/10213726_segment_ctaudio_rid$RepresentationID$_cinit_mpd.m4s"/>
         <Representation id="p0aa0br96000" codecs="mp4a.40.2" audioSamplingRate="44100" bandwidth="96000">
         </Representation>
         <Representation id="p0aa0br128000" codecs="mp4a.40.2" audioSamplingRate="44100" bandwidth="128000">
